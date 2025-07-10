@@ -2,6 +2,8 @@
 
 许多 macOS 用户会遇到如下提示：
 
+![MCPLinker](./assets/MCPLinker-damage.png)
+
 > “应用已损坏，建议将其移到废纸篓。”
 
 但事实上，**应用本身通常运行良好**，这个提示出现的原因往往只是因为应用**没有经过 Apple 的签名或公证（Notarization）**。
@@ -63,7 +65,7 @@ Apple 的提示写的是“应用已损坏”，但这在大多数情况下完�
 如果你信任应用的来源，可以使用以下命令绕过提示：
 
 ```sh
-sudo xattr -rd com.apple.quarantine /路径/你的应用.app
+xattr -rd com.apple.quarantine /路径/你的应用.app
 ```
 
 你也可以尝试用 Finder 右键 → 打开，有时也能成功。

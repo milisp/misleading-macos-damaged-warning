@@ -2,6 +2,8 @@
 
 macOS users frequently see this misleading error:
 
+![MCPLinker](./assets/MCPLinker-damage.png)
+
 > "App is damaged and should be moved to the Trash."
 
 In most cases, **the app works perfectly fine** — the error appears simply because it is **not notarized or signed by Apple**.
@@ -48,7 +50,7 @@ See [CASES.md](./CASES.md) for detailed examples submitted by real developers an
 If you trust the app source, you can bypass the warning with:
 
 ```sh
-sudo xattr -rd com.apple.quarantine /path/to/your.app
+xattr -rd com.apple.quarantine /path/to/your.app
 ```
 
 You can also right-click → Open in Finder, which sometimes works.
