@@ -1,5 +1,7 @@
 # macOS“应用已损坏”误导性提示 ❌
 
+[![GitHub Stars](https://img.shields.io/github/stars/milisp/misleading-macos-damaged-warning?style=social)](https://github.com/milisp/misleading-macos-damaged-warning/stargazers)
+
 许多 macOS 用户会遇到如下提示：
 
 ![MCPLinker](./assets/MCPLinker-damage.png)
@@ -82,3 +84,5 @@ xattr -rd com.apple.quarantine /路径/你的应用.app
 - ⭐ 给本项目 [点个 Star](https://github.com/milisp/misleading-macos-damaged-warning)
 - 🔁 在社交媒体分享这个 repo
 - 🧾 联名支持 Apple 改进这个提示语
+
+[![GitHub Stars](https://img.shields.io/github/stars/milisp/misleading-macos-damaged-warning?style=social)](https://github.com/milisp/misleading-macos-damaged-warning/stargazers)
