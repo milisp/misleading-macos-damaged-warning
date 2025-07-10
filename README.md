@@ -1,5 +1,6 @@
 # ❌ Misleading macOS “App is Damaged” Warning
 
+If this project helped you, please consider giving it a ⭐ on GitHub!
 [![GitHub Stars](https://img.shields.io/github/stars/milisp/misleading-macos-damaged-warning?style=social)](https://github.com/milisp/misleading-macos-damaged-warning/stargazers)
 
 macOS users often encounter this misleading message:
