@@ -34,7 +34,7 @@ Conservative estimates show:
 
 ## 🧪 Real-World Cases
 
-See [CASES.md](./CASES.md) for community-submitted stories, or view a few highlights below:
+See More than 50 [CASES.md](./CASES.md) for community-submitted stories, or view a few highlights below:
 
 ### 📁 CASE: All Files Marked as Damaged After macOS Monterey Update  
 [Apple Forum](https://discussions.apple.com/thread/253714860)
