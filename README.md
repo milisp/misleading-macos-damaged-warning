@@ -1,13 +1,17 @@
 # ❌ Misleading macOS “App is Damaged” Warning
 
-If this project helped you, please consider giving it a ⭐ on GitHub!
-[![GitHub Stars](https://img.shields.io/github/stars/milisp/misleading-macos-damaged-warning?style=social)](https://github.com/milisp/misleading-macos-damaged-warning/stargazers)
-
-macOS users often encounter this misleading message:
+macOS users often encounter this misleading message in old versions:
 
 > “App is damaged and should be moved to the Trash.”
 
 In reality, the app is **usually not damaged at all** — it simply lacks Apple notarization or signature.
+
+macOS new versions
+
+> Apple could not verify [AppName] is free of malware that may harm your Mac or compromise your privacy.
+
+If this project helped you, please consider giving it a ⭐ on GitHub!
+[![GitHub Stars](https://img.shields.io/github/stars/milisp/misleading-macos-damaged-warning?style=social)](https://github.com/milisp/misleading-macos-damaged-warning/stargazers)
 
 ---
 
