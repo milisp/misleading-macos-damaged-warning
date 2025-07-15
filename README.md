@@ -52,6 +52,16 @@ See More than 50 [CASES.md](./CASES.md) for community-submitted stories, or view
 
 ---
 
+### 🗣️ Real-World Reports
+
+If you’ve encountered this issue with your users, feel free to open an issue or PR describing:
+
+- Your app packaging method  
+- How users downloaded it  
+- What fixed it (if anything)
+
+---
+
 ## 🛠️ How to Bypass This Warning
 
 If you trust the app, bypass it with:
